@@ -1,0 +1,44 @@
+{
+	"events": [
+		{
+			"character": "character-1641502462.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I saw them-- the Yetis!\nThey are coming towards the village!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/charactervoices/wintermanah2.ogg",
+					"volume": 0
+				},
+				"1": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/charactervoices/wintermanuh.ogg",
+					"volume": 0
+				}
+			}
+		},
+		{
+			"character": "character-1641499637.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone take cover, now!  Get into your houses!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/charactervoices/winteroldmanoh.ogg",
+					"volume": 0
+				}
+			}
+		},
+		{
+			"emit_signal": "yetis",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641692189.json",
+		"name": "tlYetisComing"
+	}
+}

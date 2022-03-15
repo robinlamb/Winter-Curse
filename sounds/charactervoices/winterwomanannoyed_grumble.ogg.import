@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/winterwomanannoyed_grumble.ogg-22aef54a1dd07024200ab9b44ee5abaa.oggstr"
+
+[deps]
+
+source_file="res://sounds/charactervoices/winterwomanannoyed_grumble.ogg"
+dest_files=[ "res://.import/winterwomanannoyed_grumble.ogg-22aef54a1dd07024200ab9b44ee5abaa.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

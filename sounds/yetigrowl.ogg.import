@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/yetigrowl.ogg-48ae9e00d2881e8aa07502d380e8b584.oggstr"
+
+[deps]
+
+source_file="res://sounds/yetigrowl.ogg"
+dest_files=[ "res://.import/yetigrowl.ogg-48ae9e00d2881e8aa07502d380e8b584.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

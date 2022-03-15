@@ -1,0 +1,49 @@
+{
+	"glossary": [
+
+	],
+	"variables": [
+		{
+			"id": "1641505817-327",
+			"name": "haveletter",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1641505867-942",
+			"name": "havekey",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1641505832-426",
+			"name": "havecookies",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1641531437-857",
+			"name": "cookiesgiven",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1641531456-386",
+			"name": "carrotgiven",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1641531416-739",
+			"name": "lettergiven",
+			"type": 0,
+			"value": "false"
+		},
+		{
+			"id": "1641505796-399",
+			"name": "havecarrot",
+			"type": 0,
+			"value": "false"
+		}
+	]
+}

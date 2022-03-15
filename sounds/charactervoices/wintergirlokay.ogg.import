@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/wintergirlokay.ogg-3ff88358e57a28ba919724c439b1da3e.oggstr"
+
+[deps]
+
+source_file="res://sounds/charactervoices/wintergirlokay.ogg"
+dest_files=[ "res://.import/wintergirlokay.ogg-3ff88358e57a28ba919724c439b1da3e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

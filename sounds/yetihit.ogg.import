@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/yetihit.ogg-dde24a5fda723856b53e054f1e18adfb.oggstr"
+
+[deps]
+
+source_file="res://sounds/yetihit.ogg"
+dest_files=[ "res://.import/yetihit.ogg-dde24a5fda723856b53e054f1e18adfb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

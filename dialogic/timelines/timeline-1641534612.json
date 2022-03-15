@@ -1,0 +1,71 @@
+{
+	"events": [
+		{
+			"character": "character-1641499637.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello, Bobby!  What a lovely snowfall to celebrate the first day of winter tonight!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/charactervoices/winteroldmanlaugh.ogg",
+					"volume": 0
+				}
+			}
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "character-1641499637.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "I guess tonight at midnight we will see if that old story is true.",
+			"voice_data": {
+				"0": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/charactervoices/winteroldmanoh.ogg",
+					"volume": 0
+				}
+			}
+		},
+		{
+			"choice": "What story?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "We will see if what is true?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1641499637.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Two hundred years ago, exactly tonight at midnight, at the celebration for the first day of winter, something terrible happened."
+		},
+		{
+			"change_scene": "res://scenes/YetiMarch.tscn",
+			"event_id": "dialogic_041"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641534612.json",
+		"name": "tlOpening"
+	}
+}

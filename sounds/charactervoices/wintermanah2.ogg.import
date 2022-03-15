@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/wintermanah2.ogg-081cf0e104ae36b992c8791a3ec850f0.oggstr"
+
+[deps]
+
+source_file="res://sounds/charactervoices/wintermanah2.ogg"
+dest_files=[ "res://.import/wintermanah2.ogg-081cf0e104ae36b992c8791a3ec850f0.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

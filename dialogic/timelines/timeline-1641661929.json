@@ -1,0 +1,26 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As he lay dying, the leader of the Yetis cursed your ancestor and the village.  He said that two hundred years later, the Yetis would come and destroy the village.",
+			"voice_data": {
+				"0": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/yetigrowl.ogg",
+					"volume": 0
+				}
+			}
+		},
+		{
+			"change_scene": "res://scenes/village.tscn",
+			"event_id": "dialogic_041"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641661929.json",
+		"name": "tlCurse"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Yetis came down from the mountains, and attacked the village."
+		},
+		{
+			"event_id": "dialogic_023",
+			"wait_seconds": 5
+		},
+		{
+			"change_scene": "res://scenes/AncestorBow.tscn",
+			"event_id": "dialogic_041"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641571276.json",
+		"name": "tlYetiMarch"
+	}
+}

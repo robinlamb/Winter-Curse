@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/winteroldmanlaugh.ogg-fc5117646162f44758a087e2d7cbbebf.oggstr"
+
+[deps]
+
+source_file="res://sounds/charactervoices/winteroldmanlaugh.ogg"
+dest_files=[ "res://.import/winteroldmanlaugh.ogg-fc5117646162f44758a087e2d7cbbebf.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

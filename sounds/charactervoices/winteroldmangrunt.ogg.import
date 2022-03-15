@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/winteroldmangrunt.ogg-c4c2c4a65f18f5018e60766ba96d6f53.oggstr"
+
+[deps]
+
+source_file="res://sounds/charactervoices/winteroldmangrunt.ogg"
+dest_files=[ "res://.import/winteroldmangrunt.ogg-c4c2c4a65f18f5018e60766ba96d6f53.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Rise06.ogg-e266b7add9e59a0f67ecf85a02295e8e.oggstr"
+
+[deps]
+
+source_file="res://sounds/Rise06.ogg"
+dest_files=[ "res://.import/Rise06.ogg-e266b7add9e59a0f67ecf85a02295e8e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

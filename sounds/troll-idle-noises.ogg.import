@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/troll-idle-noises.ogg-9e8232c99d5635f9574ff1138c738bad.oggstr"
+
+[deps]
+
+source_file="res://sounds/troll-idle-noises.ogg"
+dest_files=[ "res://.import/troll-idle-noises.ogg-9e8232c99d5635f9574ff1138c738bad.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

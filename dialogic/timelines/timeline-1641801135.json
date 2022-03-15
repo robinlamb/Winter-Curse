@@ -1,0 +1,26 @@
+{
+	"events": [
+		{
+			"character": "character-1641499637.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You saved the village!  Your ancestor Brian would be proud of you!",
+			"voice_data": {
+				"0": {
+					"audio_bus": "charactervoices",
+					"file": "res://sounds/charactervoices/winteroldmanlaugh.ogg",
+					"volume": 0
+				}
+			}
+		},
+		{
+			"emit_signal": "end",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1641801135.json",
+		"name": "tlGameWon"
+	}
+}

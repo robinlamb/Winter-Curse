@@ -1,0 +1,24 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://models/hoodedman.glb" type="PackedScene" id=1]
+[ext_resource path="res://modelscenes/hoodedman.gd" type="Script" id=2]
+[ext_resource path="res://modelscenes/bow.tscn" type="PackedScene" id=3]
+[ext_resource path="res://modelscenes/arrow.tscn" type="PackedScene" id=4]
+
+[node name="hoodedman" groups=[
+"hoodedman",
+] instance=ExtResource( 1 )]
+script = ExtResource( 2 )
+
+[node name="Cube001" parent="Armature/Skeleton" index="0"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.46288, -2.25387, 0 )
+
+[node name="BoneAttachment" type="BoneAttachment" parent="Armature/Skeleton" index="1"]
+transform = Transform( -0.452283, -0.392031, 0.801086, 0.787165, -0.597743, 0.151898, 0.419298, 0.699294, 0.578943, 1.33205, -0.610061, 2.03266 )
+bone_name = "hand.r"
+
+[node name="bow" parent="Armature/Skeleton/BoneAttachment" index="0" instance=ExtResource( 3 )]
+transform = Transform( 0.039741, 0.277223, -0.107556, 0.203702, -0.104432, -0.193907, -0.216627, -0.0473446, -0.20207, -2.22606, 2.07085, 0.469818 )
+
+[node name="arrow" parent="Armature/Skeleton/BoneAttachment/bow" index="4" instance=ExtResource( 4 )]
+transform = Transform( -1, -1.90921e-08, -1.2666e-07, -1.16415e-08, 0.999999, 7.45058e-09, 1.04308e-07, -7.45058e-09, -1, 0.296554, -0.848337, 5.70402 )

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/winterwomanah.ogg-710a2408a58909a0c6c849f92a0026f9.oggstr"
+
+[deps]
+
+source_file="res://sounds/charactervoices/winterwomanah.ogg"
+dest_files=[ "res://.import/winterwomanah.ogg-710a2408a58909a0c6c849f92a0026f9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
